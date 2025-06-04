@@ -1,0 +1,72 @@
+.contenedor1{
+
+    background-color: rgb(255, 202, 103);
+}
+
+#Prueba{
+
+    background-color: rgba(116, 42, 0, 0.918);
+}
+
+#logo {
+
+    display: flex;
+    justify-content: space-between;
+}
+
+#perfil {
+
+    display: flex;
+}
+
+
+.table_bar{
+
+    width: 100%;
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.table_bar a{
+
+    padding-top: 10%;
+    padding-bottom: 10%;
+}
+
+.Contenido{
+
+    display: flex;
+}
+
+.post{
+
+    justify-content: center;
+}
+
+.post img{
+
+    width: 100%;
+    max-width: 50px;
+
+}
+
+.comment-inp{
+
+    width: 100%;
+    max-width: 400px;
+    height: 20px;
+    border-radius: 6px;
+    font-size: 18px;
+    padding: 15px;
+    border: 2px;
+    color: black;
+    outline: none;
+    margin: 0 auto;
+}
+
+#5{
+
+    display: flex;
+}
