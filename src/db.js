@@ -5,6 +5,7 @@ const bcrypt = require('bcryptjs');
 const multer = require('multer');
 const path = require('path');
 let XMLWriter = require('xml-writer');
+require('dotenv').config();
 
 const app = express();
 const port = 5000;
