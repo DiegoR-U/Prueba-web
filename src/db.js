@@ -14,10 +14,10 @@ app.use(express.json());
 app.use(cors());
 
 const db = mysql.createConnection({
-  host: 'tramway.proxy.rlwy.net',
-  port: 28142,
+  host: 'trolley.proxy.rlwy.net',
+  port: 36298,
   user: 'root',
-  password: 'yvduUHwxKiBWsTWeawEmAXulPwvpRUGN',
+  password: 'uAhpxIrzszbIZAxqYjBafuoyWkGlKPfy',
   database: 'railway',
 });
 
